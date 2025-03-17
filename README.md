@@ -23,3 +23,4 @@ This is an interactive **INTERACTIVE-QUIZ-APPLICATION** built using **HTML, CSS,
 
 ## OUTPUT
 
+![Image](https://github.com/user-attachments/assets/ac5331c5-e101-41aa-92e8-6040ac12e5e9)
